@@ -29,7 +29,7 @@ export default function Imagedesign() {
     <div className="hero">
       <div className="image-wrapper">
         <img
-          src="/public/assets/man.jpg"
+          src="/src/utils/man.jpg"
           alt="background"
           className="main-img"
         />
