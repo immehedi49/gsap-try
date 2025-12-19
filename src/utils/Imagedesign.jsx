@@ -30,7 +30,7 @@ export default function Imagedesign() {
       <div className="image-wrapper">
         <img
           src="/src/utils/man.jpg"
-          alt="background"
+          alt="backgr"
           className="main-img"
         />
 
